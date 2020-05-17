@@ -1,2 +1,2 @@
 # hello-world
-My ideas and tests for GitHub
+I'm doing the tutorial to understand how to use github. Wish me luck!
